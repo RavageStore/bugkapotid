@@ -1,0 +1,9 @@
+{
+  "server": "Active",
+  "data": [
+    {
+      "command": ".tcp apalah.com dur:40 port:30",
+      "status": "pending"
+    }
+  ]
+}
