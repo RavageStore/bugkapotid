@@ -3,7 +3,7 @@
   "data": [
     {
       "command": ".forceclose 628272828282",
-      "status": "pending"
+      "status": "success"
     },
     {
       "command": ".delay 628272828282",
