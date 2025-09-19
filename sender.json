@@ -3,19 +3,19 @@
   "data": [
     {
       "command": ".forceclose 628272828282",
-      "status": "success"
+      "status": "pending"
     },
     {
       "command": ".delay 628272828282",
-      "status": "success"
+      "status": "pending"
     },
     {
       "command": ".infinity 628272828282",
-      "status": "success"
+      "status": "pending"
     },
     {
       "command": ".iphonecrash 628272828282",
-      "status": "success"
+      "status": "pending"
     }
   ]
 }
