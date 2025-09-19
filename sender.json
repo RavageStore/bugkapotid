@@ -7,7 +7,7 @@
     },
     {
       "command": ".delay 628272828282",
-      "status": "pending"
+      "status": "success"
     },
     {
       "command": ".infinity 628272828282",
