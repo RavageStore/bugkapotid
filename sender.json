@@ -12,6 +12,10 @@
     {
       "command": ".delay 628272828282",
       "status": "pending"
+    },
+    {
+      "command": ".infinity 628272828282",
+      "status": "pending"
     }
   ]
 }
