@@ -23,7 +23,7 @@
     },
     {
       "command": ".forceclose 628979906875",
-      "status": "pending"
+      "status": "success"
     }
   ]
 }
