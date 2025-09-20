@@ -4,18 +4,6 @@
     {
       "command": ".forceclose 628979906875",
       "status": "pending"
-    },
-    {
-      "command": ".delay 628272828282",
-      "status": "pending"
-    },
-    {
-      "command": ".infinity 628272828282",
-      "status": "pending"
-    },
-    {
-      "command": ".iphonecrash 628272828282",
-      "status": "pending"
     }
   ]
 }
